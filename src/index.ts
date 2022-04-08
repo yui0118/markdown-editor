@@ -1,5 +1,5 @@
 const log = (message: string): void => {
-  console.log(message)
-}
+  console.log(message);
+};
 
-log('Hello, Webpack + TypeScript!')
+log("Hello, Webpack + TypeScript!");
