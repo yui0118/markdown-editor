@@ -1,4 +1,4 @@
-// JSXを使う場合、Reactライブラリのインポート必須
+// JSXを使う場合、Reactライブラリのインポート必須(モジュールの全てをインポートする場合は * as fooを使う)
 // React-domライブラリのインポート
 import * as React from "react";
 import { render } from "react-dom";
