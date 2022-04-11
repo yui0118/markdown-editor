@@ -3,6 +3,6 @@
     "moduleResolution": "node",
     "outDir": "./dist/",
     "target": "ES2015",
-    "jsx": "react" // ReactでJSX記法を使うための設定
+    "jsx": "react"
   }
 }
